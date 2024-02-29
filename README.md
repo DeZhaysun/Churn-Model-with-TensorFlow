@@ -17,7 +17,7 @@ The dataset used in this project contains information about telecommunications c
 The model's performance is evaluated based on accuracy and loss metrics. Here are the plots depicting the training and validation accuracy, as well as the training and validation loss over epochs:
 
 ## Conclusion:
-The churn prediction model demonstrates promising results in predicting customer churn. Further optimization and fine-tuning may be necessary to improve its performance.
+The churn prediction model demonstrates promising results in predicting customer churn. Further optimization and fine-tuning may be necessary to improve its performance.<br />
 ![Screenshot 2024-02-29 011814](https://github.com/DeZhaysun/Churn-Model-with-TensorFlow/assets/61562373/43ad8a4d-0c21-4694-a82f-ccd968e1fe6f)
 ![image](https://github.com/DeZhaysun/Churn-Model-with-TensorFlow/assets/61562373/11e6cad8-9d17-40ca-95ee-c115a46ddd1b)
 
